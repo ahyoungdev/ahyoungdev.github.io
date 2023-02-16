@@ -17,10 +17,10 @@ title: "Hi there! 👋  I'm Ahyoung."
 email: 'ak4373@tc.columbia.edu'
 description: "I'm a software engineer based in New York City."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jamigibbs.github.io/phantom" # the base hostname & protocol for your site, e.g. https://example.com
-twitter_username: 'jamigibbs'
-github_username: 'jamigibbs'
-medium_username: 'blog.jamigibbs.com'
+url: "https://ahyoung227.github.io" # the base hostname & protocol for your site, e.g. https://example.com
+twitter_username: 'ahyoung227'
+github_username: 'ahyoung227'
+medium_username: 'ahyoung227'
 
 # Build settings
 markdown: kramdown
