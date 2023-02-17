@@ -2,7 +2,7 @@
 layout: inner
 position: left
 title: 'Gooroo Club'
-date: 2019-02-20 15:56:00
+date: 2021-02-17 15:56:00
 when: 2021
 categories: development
 tags: JavaScript Vue Nuxt Python Flask SQLAlchemy GraphQL mySQL 
