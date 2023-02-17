@@ -6,8 +6,8 @@ date: 2016-02-20 15:56:00
 categories: development
 tags: JavaScript Vue Next python Flask SQLALchemy GraphQL mySQL
 featured_image: '/img/posts/gooroo.png'
-project_link: 'http://github.com/jamigibbs/weathercast'
-button_icon: 'github'
+project_link: 'https://courses.gooroo.com'
+button_icon: 'flask'
 button_text: 'Visit Project'
-lead_text: 'A simple weather forecast app for your favorite city.'
+lead_text: 'Gooroo Club is a innovative new project from Gooroo, specifically designed to provide Pre-K to Grade 12 students with an engaging and comprehensive educational experience. Gooroo Club offers a diverse range of subjects, including art, music, math, science, technology, and languages, all accessible through the streaming video resources.'
 ---
