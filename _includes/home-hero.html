@@ -15,7 +15,7 @@
           <img class="profile" src="/img/ahyoung-profile.png" style="width: 280px; display:block; margin:auto; margin-top:40px">
 
           {% if site.description != '' or site.enable_contact == true %}
-          <p class="text-center">
+          <p class="text-center" style="margin-bottom: 30px">
             {% if site.description != '' %}
             {{site.description}}
             {% endif %}
@@ -26,6 +26,14 @@
             {% endif %}
           </p>
           {% endif %}
+          <div class="lead" style="font-size:15px">
+            <div class="text-center" style="margin-bottom: 20px;">
+              {{site.description2}}
+              <div/>
+              <div class="text-center" style="margin-bottom: 20px; margin-top: 20px;">
+                {{site.description3}}
+              </div>
+          </div>
 
           <div class="hero-buttons">
 
